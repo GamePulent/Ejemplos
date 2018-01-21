@@ -25,7 +25,7 @@ public class Función {
   // Con una coma estoy "separando" un argumento del otro
   static int Suma (int UnNúmero, int OtroNúmero) {
     
-    // Aquí le estoy especificando que me devolverá con la palabra "return"
+    // Aquí le estoy especificando qué me devolverá con la palabra "return"
     return (UnNúmero + OtroNúmero);
     
   }
